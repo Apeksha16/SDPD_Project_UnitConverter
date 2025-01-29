@@ -17,6 +17,13 @@ An Android application for converting units of measurement such as length, mass,
 3. ![Screenshot_20250130_002926](https://github.com/user-attachments/assets/779c34c2-f376-44db-b4ca-bcaf05c46306)
 4. ![Screenshot_20250130_003034](https://github.com/user-attachments/assets/411bba8d-ccaa-4212-9f18-82625d1dacf9)
 
+## Tech Stack
+
+- Java
+- XML
+- Android Studio
+- Gradle
+
 ## Installation
 
 To install the Unit Converter Application, follow these steps:
