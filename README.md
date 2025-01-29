@@ -12,7 +12,10 @@ An Android application for converting units of measurement such as length, mass,
 
 ## Screenshots
 
-![Application](https://github.com/Apeksha16/SDPD_Project_UnitConverter/assets/your-image-path)
+1. ![Screenshot_20250130_002742](https://github.com/user-attachments/assets/cf1bf99d-7bf2-4df0-8a47-a4b2c89d51b1)
+2. ![Screenshot_20250130_002826](https://github.com/user-attachments/assets/b1c69bd1-ead0-4341-883a-5268960cb8bd)
+3. ![Screenshot_20250130_002926](https://github.com/user-attachments/assets/779c34c2-f376-44db-b4ca-bcaf05c46306)
+4. ![Screenshot_20250130_003034](https://github.com/user-attachments/assets/411bba8d-ccaa-4212-9f18-82625d1dacf9)
 
 ## Installation
 
